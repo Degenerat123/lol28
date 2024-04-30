@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(166, 185, 179);
+    color: rgb(74, 143, 117);
+    font-size: 23px;
+}
+h1{
+    color: rgb(5, 75, 57);
+    text-align: center;
+}
+p{
+    color: rgb(13, 78, 78);
+    text-align: center;
+}
+header{
+    height: 20px;
+    background-color: blue;
+}
+nav{
+    height: 150px;
+    background-color: burlywood;
+}
+main{
+    height: 500px;
+    background-color: brown;
+}
+footer{
+    height: 100px;
+    background-color: aliceblue ;
+}
+
+a{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    text-decoration: none;
+}
